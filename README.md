@@ -1,4 +1,4 @@
-![Slide 16_9 - 3](https://github.com/user-attachments/assets/9e03cb35-4d80-4a39-a5d1-36f8ac55f272)# Togedog
+# Togedog
 "반려동물과 함께, 더 따뜻한 연결! 커뮤니티부터 병원 검색, 중고거래까지 한 곳에서!"
 
 
